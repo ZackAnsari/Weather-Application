@@ -11,7 +11,7 @@
 <hr>
 <!-- <img align="center" alt="Coding" width="400" src="https://github.com/ZackAnsari/Weather-Application/assets/107903537/f5d36fff-6676-421c-81b5-a381eb5efafa"> -->
 <img width="465" alt="Screen Shot 2023-07-17 at 3 07 47 AM" src="https://github.com/ZackAnsari/Weather-Application/assets/107903537/f5d36fff-6676-421c-81b5-a381eb5efafa">
-<li>Shows the application opens showing the search bar for the city</li>
+<li>Shows how the application looks when opening with the search bar for the city</li>
 <br>
 <br>
 <img width="465" alt="Screen Shot 2023-07-17 at 3 08 12 AM" src="https://github.com/ZackAnsari/Weather-Application/assets/107903537/d77d3d2c-2930-4d94-8811-3878f5b863b0">
